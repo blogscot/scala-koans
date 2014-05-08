@@ -1,0 +1,14 @@
+ivyrepo/
+project/
+sbtboot/
+target/
+sbt-launch.jar
+build.sbt
+.hg_archival.txt
+.hgignore
+src/test/scala/org/functionalkoans/forscala/support/KoanSuite.scala
+src/test/scala/org/functionalkoans/forscala/support/Master.scala
+koans.html
+koans
+koans.bat
+src/main/java/org/functionalkoans/forscala/SomeJavaClass.java
